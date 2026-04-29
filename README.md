@@ -65,6 +65,13 @@ Beyond research, I'm dedicated to **accessibility and inclusive education** – 
 
 ## 🔬 Featured Projects & Experience
 
+### **Clinical Trial Protocol Analyzer Agent** 🤖📋
+An AI-powered agent that analyzes clinical trial protocols to identify discrepancies and answer research questions.
+- **Features:** PDF protocol analysis, quality checks, issue detection, interactive Q&A
+- **Tech:** Python, pdfplumber, LangChain, clinical research expertise
+- **Demonstrates:** AI implementation, healthcare data processing, protocol knowledge
+- 📂 [View Files](clinical_protocol_agent.py) | 📖 [Full Documentation](PROTOCOL_AGENT_README.md)
+
 ### **MSc Drug Discovery with AI** – University of Liverpool
 - Computational molecular docking and virtual screening
 - QSAR modeling for drug efficacy prediction
