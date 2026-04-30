@@ -15,7 +15,7 @@ import tempfile
 from clinical_protocol_agent import ProtocolAnalyzer
 from typing import Dict, List
 
-app = FastAPI(title="Clinical Trial Protocol Analyzer API")
+app = FastAPI(title="CRA App - Clinical Research Assistant")
 
 # Enable CORS for local development
 app.add_middleware(
@@ -182,6 +182,6 @@ def read_root():
 
 if __name__ == "__main__":
     import uvicorn
-    print("Starting Clinical Trial Protocol Analyzer Server")
+    print("Starting CRA App - Clinical Research Assistant")
     print("Access the application at: http://localhost:8000")
     uvicorn.run(app, host="0.0.0.0", port=8000)
