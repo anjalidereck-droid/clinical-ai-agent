@@ -92,13 +92,13 @@ python app.py
 You should see:
 ```
 Starting CRA App - Clinical Research Assistant
-Access the application at: http://localhost:8000
+Access the application at: [http://localhost:8000](http://127.0.0.1:8001/)
 ```
 
 Access the App
 Open your web browser and go to:
 ```
-http://localhost:8000
+[http://localhost:8000](http://127.0.0.1:8001/)
 ```
 
 ---
